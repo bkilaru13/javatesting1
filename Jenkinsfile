@@ -2,8 +2,8 @@ pipeline {
   agent any
 
   stages {
-    stage('echo') {
-      agent any
+    stage('dinki chaka ') {
+   
 
       steps {
         echo 'Awesome Student!'
