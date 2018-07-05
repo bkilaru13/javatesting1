@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   stages {
-    stage('Say Hello') {
+    stage('sayHello') {
       agent any
 
       steps {
