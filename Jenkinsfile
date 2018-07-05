@@ -9,9 +9,7 @@ pipeline {
         echo 'Awesome Student!'
       }
     } 
-  }
- 
-    stages {
+  
     stage('tata ') {
    
 
